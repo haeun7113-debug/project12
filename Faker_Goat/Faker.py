@@ -1,0 +1,1 @@
+print("Faker는 신이야")
